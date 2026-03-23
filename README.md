@@ -43,8 +43,4 @@ This project can be simulated using:
 - Vivado Simulator
 - Icarus Verilog (iverilog)
 
-Example simulation command:
 
-```bash
-iverilog *.v
-vvp a.out
